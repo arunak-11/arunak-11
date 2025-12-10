@@ -52,12 +52,12 @@ I build **secure, scalable cloud infrastructure on AWS** using **Infrastructure-
 
 💬 **Open to DevOps / Cloud Engineering roles (Remote or India)**  
 
-📫 Reach out
+---
 
-[LinkedIn](https://www.linkedin.com/in/arunks11) or arumsubramaniak@gmail.com
+📫 Reach out & Connect with Me🌟
 
-🌟Connect with Me
-
+🌐[LinkedIn](https://www.linkedin.com/in/arunks11) or 
 💬arumsubramaniak@gmail.com
-🌐www.linkedin.com/in/arunks11
+
+
 
