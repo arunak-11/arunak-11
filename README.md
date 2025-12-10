@@ -17,6 +17,7 @@ I build **secure, scalable cloud infrastructure on AWS** using **Infrastructure-
 🚀 Featured Projects
 
 | Project | Domain | Tech Used | Description |
+
 |--------|--------|----------|-------------|
 | **[CRM Application]**
         ERP-Cloud | AWS, Python, MySQL, Terraform | Cloud-hosted CRM for subscriber & support management |
