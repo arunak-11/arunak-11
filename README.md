@@ -18,11 +18,11 @@ I build **secure, scalable cloud infrastructure on AWS** using **Infrastructure-
 
 | Project | Domain | Tech Used | Description |
 |--------|--------|----------|-------------|
-| **[CRM Application](#)**
+| **[CRM Application]**
         ERP-Cloud | AWS, Python, MySQL, Terraform | Cloud-hosted CRM for subscriber & support management |
-| **[HCM System](#)** 
+| **[HCM System]** 
          Healthcare | AWS Lambda, Docker, VPC, IAM | End-to-end healthcare platform with OPD, IPD, Blood Bank |
-| **[FIM Platform](#)** 
+| **[FIM Platform]** 
          FinTech | AWS CodeBuild, Jenkins, Boto3 | Finance & investment tool with budgeting and expense tracking |
 
 > 🔜 *Repo links coming soon! (or replace `#` with actual GitHub repo URLs)*
@@ -46,6 +46,7 @@ I build **secure, scalable cloud infrastructure on AWS** using **Infrastructure-
 💬 **Open to DevOps / Cloud Engineering roles (Remote or India)**  
 📫 Reach out
 [LinkedIn](https://www.linkedin.com/in/arunks11) or arumsubramaniak@gmail.com
+
 🌟Connect with Me
 💬arumsubramaniak@gmail.com
 🌐www.linkedin.com/in/arunks11
