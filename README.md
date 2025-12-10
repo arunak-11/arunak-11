@@ -20,9 +20,13 @@ I build **secure, scalable cloud infrastructure on AWS** using **Infrastructure-
 |--------|--------|----------|-------------|
 | **[CRM Application]**
         ERP-Cloud | AWS, Python, MySQL, Terraform | Cloud-hosted CRM for subscriber & support management |
+        
 | **[HCM System]** 
+
          Healthcare | AWS Lambda, Docker, VPC, IAM | End-to-end healthcare platform with OPD, IPD, Blood Bank |
+         
 | **[FIM Platform]** 
+
          FinTech | AWS CodeBuild, Jenkins, Boto3 | Finance & investment tool with budgeting and expense tracking |
 
 > 🔜 *Repo links coming soon! (or replace `#` with actual GitHub repo URLs)*
