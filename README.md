@@ -21,6 +21,7 @@ I build **secure, scalable cloud infrastructure on AWS** using **Infrastructure-
 |--------|--------|----------|-------------|
 
 | **[CRM Application]**
+
         ERP-Cloud | AWS, Python, MySQL, Terraform | Cloud-hosted CRM for subscriber & support management |
         
 | **[HCM System]** 
@@ -50,11 +51,13 @@ I build **secure, scalable cloud infrastructure on AWS** using **Infrastructure-
 - Online Cloud Computing (2023)
 
 💬 **Open to DevOps / Cloud Engineering roles (Remote or India)**  
+
 📫 Reach out
 
 [LinkedIn](https://www.linkedin.com/in/arunks11) or arumsubramaniak@gmail.com
 
 🌟Connect with Me
+
 💬arumsubramaniak@gmail.com
 🌐www.linkedin.com/in/arunks11
 
