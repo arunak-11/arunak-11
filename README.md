@@ -1,4 +1,4 @@
-👋 Hi, I'm Arun — Cloud & DevOps Engineer
+#👋 Hi, I'm Arun — Cloud & DevOps Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunks11)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunsubramaniak@gmail.com)
@@ -32,7 +32,6 @@ I build **secure, scalable cloud infrastructure on AWS** using **Infrastructure-
 
          FinTech | AWS CodeBuild, Jenkins, Boto3 | Finance & investment tool with budgeting and expense tracking |
 
-> 🔜 *Repo links coming soon! (or replace `#` with actual GitHub repo URLs)*
 
 ---
 
